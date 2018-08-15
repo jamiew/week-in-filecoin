@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week in Filecoin/IPFS - first post"
+title:  "First post - week ending 8/12"
 date:   2018-08-12 11:09:07 -0400
 categories:
 ---
