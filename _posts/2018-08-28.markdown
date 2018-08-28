@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Week ending 8/28 (Tuesday)"
+date:   2018-08-28 11:09:07 -0400
+categories:
+---
+
+Since all-hands and team updates are on Mondays, I'm trying out publishing this on Tuesdays.
+
+* Stuff
+* goes
+* here
+
+
+
